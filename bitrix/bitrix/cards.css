@@ -1,0 +1,26 @@
+.property-card{
+padding:30px;
+color: white;
+background: #5454547a;
+}
+.background-image{
+    height: 85%;
+    background-size: cover !important;
+    background-position: 50% 50% !important;
+    z-index: 0;
+    opacity: 0;
+    background: #fff;
+    
+}
+.background-image img {
+    display:none;
+  }
+ .crd{
+ width: 50%;
+ margin-bottom:10px;  
+ }
+ .property-type
+ {
+margin: 0px;   
+   
+ }
