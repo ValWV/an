@@ -25,3 +25,8 @@ background: #5454547a;
 margin: 0px;   
    
  }
+.header-name {
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+}
