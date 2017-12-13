@@ -1640,6 +1640,8 @@ margin-left: 34%;
 	min-height: 350px;
 	width: 250px;
         float: left;
+	padding: 20px;
+font-size: 12px;
 }
 .gp_bottom_border{
 	width: 60%;
