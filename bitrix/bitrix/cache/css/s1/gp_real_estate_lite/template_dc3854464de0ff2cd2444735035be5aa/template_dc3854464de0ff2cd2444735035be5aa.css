@@ -2452,12 +2452,12 @@ outline: 0 none;
 padding: 4px 5px;
 
 background: #ffffff;
-background: -moz-linear-gradient(top,  #ffffff 0%, #fefefe 42%, #f0f0f0 74%, #e0e0e0 100%);
+/*background: -moz-linear-gradient(top,  #ffffff 0%, #fefefe 42%, #f0f0f0 74%, #e0e0e0 100%);
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(42%,#fefefe), color-stop(74%,#f0f0f0), color-stop(100%,#e0e0e0));
 background: -webkit-linear-gradient(top,  #ffffff 0%,#fefefe 42%,#f0f0f0 74%,#e0e0e0 100%);
 background: -o-linear-gradient(top,  #ffffff 0%,#fefefe 42%,#f0f0f0 74%,#e0e0e0 100%);
 background: -ms-linear-gradient(top,  #ffffff 0%,#fefefe 42%,#f0f0f0 74%,#e0e0e0 100%);
-background: linear-gradient(to bottom,  #ffffff 0%,#fefefe 42%,#f0f0f0 74%,#e0e0e0 100%);
+background: linear-gradient(to bottom,  #ffffff 0%,#fefefe 42%,#f0f0f0 74%,#e0e0e0 100%);*/
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e0e0e0',GradientType=0 );
 }
 .gp-filter input:focus, .gp-filter textarea:focus{
