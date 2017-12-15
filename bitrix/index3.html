@@ -315,53 +315,19 @@
 		<div class="filter-default">
 														
 			
-<div class="gp-item" style="width: 38%;">
-<span style="width: 85px;">Сделка:</span> <div class="radio-group">
-<input type="radio" class="type_of_transaction_1" name="gp_filter_pf[type_of_transaction][]" id="type_of_transaction_1" 
-checked="checked" value="1">
-<label id="type_of_transaction_1" for="type_of_transaction_1">Снять</label>
-<input type="radio" class="type_of_transaction_2" name="gp_filter_pf[type_of_transaction][]" 
-id="type_of_transaction_2" value="2"><label id="type_of_transaction_2" for="type_of_transaction_2">Купить</label></div>					</div>
 
 			
 					
-<div class="gp-item" style="width: 38%;">
-<span style="width: 85px;">Тип:</span> 
-<div class="radio-group"><input type="radio" class="type_1" name="gp_filter_pf[type][]" id="type_3" value="3">
-<label id="type_1" for="type_3">Квартира</label><input type="radio" class="type_2" name="gp_filter_pf[type][]" id="type_4" value="4">
-<label id="type_2" for="type_4">Комната</label><input type="radio" class="type_3" name="gp_filter_pf[type][]" id="type_5" value="5">
-<label id="type_3" for="type_5">Дом</label><input type="radio" class="type_4" name="gp_filter_pf[type][]" id="type_6" value="6">
-<label id="type_4" for="type_6">Участок</label></div>					
-</div>
+
 							
 					
-<div class="gp-item" style="width: 38%;">
-<span style="width: 85px;">Комн.:</span> <div class="checkbox-group">
-<input type="checkbox" class="rooms_1" name="gp_filter_pf[rooms][]" id="rooms_7" value="7">
-<label id="rooms_1" for="rooms_7">Студия</label>
-<input type="checkbox" class="rooms_2" name="gp_filter_pf[rooms][]" id="rooms_8" value="8">
-<label id="rooms_2" for="rooms_8">1</label><input type="checkbox" class="rooms_3" name="gp_filter_pf[rooms][]" id="rooms_9" value="9">
-<label id="rooms_3" for="rooms_9">2</label><input type="checkbox" class="rooms_4" name="gp_filter_pf[rooms][]" id="rooms_10" value="10">
-<label id="rooms_4" for="rooms_10">3</label><input type="checkbox" class="rooms_5" name="gp_filter_pf[rooms][]" id="rooms_11" value="11">
-<label id="rooms_5" for="rooms_11">4+</label></div>					
-</div>
-							
-	
-			
-			
-			
-<div class="gp-item" style="width: 38%;">
-<span style="width: 85px;">Цена:</span> <span class="gp-ot-do">
-<input type="text" id="price_LEFT" name="gp_filter_pf[price][LEFT]" style="width:40px;" value="" placeholder="6800">&nbsp;по&nbsp;
-<input type="text" id="price_RIGHT" name="gp_filter_pf[price][RIGHT]" style="width:40px;" value="" placeholder="207000000">
-<div id="price_RANGE"></div></span>					
-</div>
+		
+
 							
 					
 <div class="gp-item" style="width: 38%;">
 <select name="gp_filter_pf[type_deal]" 
 class="chosen-select chosen-select-deselect" data-placeholder="Тип сделки" style="width:220px;">
-<option value=""></option>
 <option value="110">Купить</option>
 <option value="111">Сдать</option></select>					
 </div>
@@ -369,18 +335,19 @@ class="chosen-select chosen-select-deselect" data-placeholder="Тип сделк
 <div class="gp-item" style="width: 38%;">
 <select name="gp_filter_pf[type_proprty]" 
 class="chosen-select chosen-select-deselect" data-placeholder="Тип недвижимости" style="width:220px;">
-<option value=""></option>
 <option value="120">Квартиру</option>
-<option value="121">Комнату</option></select>	
+<option value="121">Комнату</option>	
 <option value="122">Дом</option>
 <option value="123">Участок</option>
+</select>	
+	
 </div>			
 			
 <div class="gp-item" style="width: 38%;">
 <select name="gp_filter_pf[rooms]" 
 class="chosen-select chosen-select-deselect" data-placeholder="Количество комнат" style="width:220px;">
 <option value="130">Студия</option>
-<option value="131">Одна</option></select>	
+<option value="131">Одна</option>	
 <option value="132">Две</option>
 <option value="133">Три</option>
 <option value="134">Четыре</option>
@@ -388,7 +355,7 @@ class="chosen-select chosen-select-deselect" data-placeholder="Количест�
 <option value="136">Шесть</option>	
 <option value="137">Семь</option>	
 <option value="138">Свободная планировка</option>	
-	
+</select>	
 </div>	
 			
 			
@@ -431,7 +398,12 @@ data-placeholder="Метро" style="width:220px;">
 					
 		
 											
-					
+<div class="gp-item" style="width: 38%;">
+<span style="width: 85px;">Цена:</span> <span class="gp-ot-do">
+<input type="text" id="price_LEFT" name="gp_filter_pf[price][LEFT]" style="width:40px;" value="" placeholder="6800">&nbsp;по&nbsp;
+<input type="text" id="price_RIGHT" name="gp_filter_pf[price][RIGHT]" style="width:40px;" value="" placeholder="207000000">
+<div id="price_RANGE"></div></span>					
+</div>					
 											
 					
 											
