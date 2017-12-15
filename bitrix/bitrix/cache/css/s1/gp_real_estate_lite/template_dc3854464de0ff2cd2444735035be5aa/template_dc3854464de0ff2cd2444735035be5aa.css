@@ -2806,7 +2806,7 @@ clear: both;
 .newsItemHeader {
 	min-height: 40px;
 }
-.gp-item {width: 25% !important}
+.gp-item {width: 15% !important}
 .gp-item:nth-child(2) span{
 	display: none;
 }
