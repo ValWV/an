@@ -2450,7 +2450,8 @@ border: 1px solid #AAAAAA;
 margin: 1px 0;
 outline: 0 none;
 padding: 4px 5px;
-
+padding-left: 9px;
+    border-radius: 3px;
 background: #ffffff;
 /*background: -moz-linear-gradient(top,  #ffffff 0%, #fefefe 42%, #f0f0f0 74%, #e0e0e0 100%);
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(42%,#fefefe), color-stop(74%,#f0f0f0), color-stop(100%,#e0e0e0));
