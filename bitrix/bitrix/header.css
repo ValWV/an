@@ -13,3 +13,7 @@
 .hidden-xs {
     display: block !important;
 }
+.horiz-nav {
+    margin: 0;
+    list-style-type: none;
+}
