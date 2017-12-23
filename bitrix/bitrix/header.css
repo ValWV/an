@@ -1,0 +1,15 @@
+.site-header {
+    width: 100%;
+} 
+.header {
+    display: block;
+}
+.top-headerstings .dsidx-listing .dsidx-data .dsidx-primary-data .dsidx-price, #dsidx-top-search #dsidx-search-form-wrap, .sidebar .widget .dsidx-expanded .featured-listing h4, .sidebar .widget .dsidx-expanded .featured-listing .property-item h4 a, .property-item h4 .sidebar .widget .dsidx-expanded .featured-listing a, .sidebar .widget .dsidx-slideshow .featured-listing h4, .sidebar .widget .dsidx-slideshow .featured-listing .property-item h4 a, .property-item h4 .sidebar .widget .dsidx-slideshow .featured-listing a, #dsidx-listings .dsidx-primary-data, .sidebar .widget .dsidx-search-widget .dsidx-search-button .submit, .dsidx-contact-form-submit {
+    background-color: #3F5765;
+}
+.top-header {
+    min-height: 30px;
+}
+.hidden-xs {
+    display: block !important;
+}
