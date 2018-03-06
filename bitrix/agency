@@ -1,0 +1,1453 @@
+
+<!doctype html>  
+<html class="no-js">
+<head>
+<meta name="yandex-verification" content="0dfda579bcfedf06" />
+<meta charset="windows-1251">
+<meta name='yandex-verification' content='5b6b013d39bf6aac' /> 
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Агентство недвижимости Панорама, услуги риэлтора, продажа недвижимости, покупка недвижимости</title>
+<meta name="keywords" content="недвижимость, агентство, продажа, услуги, аренда, агентства, оформление сделок с недвижимостью." />
+<meta name="description" content="Агентство недвижимости «Панорама Плюс» – агентство недвижимости в Санкт-Петербурге и Ленинградской области по жилой недвижимости." />
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" type="image/x-icon" href="/bitrix/templates/gp_real_estate_lite/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/css/media-queries.css" />
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/css/component.css" />
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/css/buttons.css" />
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/css/base.css" />
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/custom.css" />
+
+<link rel="stylesheet" type="text/css" href="https://rawgit.com/ValWV/an/master/bitrix/bitrix/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/js/fancybox/jquery.fancybox-1.3.4.css" />
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/js/jcarousel/jcarousel.connected-carousels.css" />
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jquery.scrollUp.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/fancybox/jquery.fancybox-1.3.4.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jcarousel/jcarousel.connected-carousels.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jcarousel/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/sidr/jquery.sidr.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/js/sidr/jquery.sidr.dark.css">
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/slides.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/Base64.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/others.js"></script>
+<script src="/bitrix/templates/gp_real_estate_lite/js/modernizr.custom.js"></script>
+<script src="/bitrix/templates/gp_real_estate_lite/js/modernizr.custom.63321.js"></script>
+<link href="/bitrix/cache/css/s1/gp_real_estate_lite/kernel_main/kernel_main.css?151921737231094" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?151879105720704" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/gp_real_estate_lite/template_60f9c9b34d4c0700dd3e525e1f493d1b/template_60f9c9b34d4c0700dd3e525e1f493d1b.css?151879174081399" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/html5.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<div style='clear: both; text-align:center; position: relative;'>
+<a href="http://windows.microsoft.com/ru-RU/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="0" width="0" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a>
+</div>
+<![endif]-->
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1520341777','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'4a098116e17c2a368c414438907f6f2a'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/gp_real_estate_lite/kernel_main/kernel_main.js?1519217372278162"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/components/gp/search.filter/js/jquery-ui-1.10.3.custom.min.js','/bitrix/components/gp/search.filter/js/chosen.jquery.min.js','/bitrix/components/gp/search.filter/js/jquery.placeholder.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/bitrix/components/gp/search.filter/css/chosen.min.css','/bitrix/templates/gp_real_estate_lite/styles.css','/bitrix/templates/gp_real_estate_lite/template_styles.css']); </script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/gp_real_estate_lite/template_06dfa3cecb1fd0b51341570265931258/template_06dfa3cecb1fd0b51341570265931258.js?151879174080242"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "e17860908910a76fb92b75511b74309c"]); _ba.push(["host", "svoyagent.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+
+
+</head>
+<body>
+	<div id="contactable"><!-- contactable html placeholder --></div>
+<div id="panel"></div>
+
+<div class="gp_menu-mobile">
+
+<div id="mobile-nav">
+	<span class="mobile-menu">
+		<a id="mobile-menu" href="#sidr-left">
+			<div class="mobile-menu-img">&nbsp;</div>
+		</a>
+	</span>
+	
+	<div class="mobile-title"><a href="/"><div class="gp_mhome"></div></a>
+	Агентство недвижимости Панорама, услуги риэлтора, продажа недвижимости, покупка недвижимости	</div>
+	
+	<span class="mobile-search">
+		<a id="search-menu" href="#sidr-right">
+			<div class="search-menu-img">&nbsp;</div>
+		</a>
+	</span>
+</div>
+<style>
+	#sidr .gp-sub {display: none}
+	#mobile-nav {
+		width: 100%;
+	}
+	.mobile-menu {
+		width: 20px;
+		height: 20px;
+		float: left;
+		margin-left: 5px;
+		margin-top: 5px;
+		width: 24%;
+		min-width: 30px;
+		display: inline-block;
+	}
+	
+	.mobile-search {
+		width: 20px;
+		height: 20px;
+		float: right;
+		margin-right: 5px;
+		margin-top: 5px;
+		min-width: 30px;
+		display: inline-block;
+	}
+	.mobile-menu-img {
+		width: 40px;
+		height: 30px;
+		background: url('/bitrix/templates/gp_real_estate_lite/images/reorder.png') no-repeat;
+		padding: 10px;
+	}
+	.search-menu-img {
+	float: right;
+	width: 40px;
+		height: 30px;
+		background: url('/bitrix/templates/gp_real_estate_lite/images/filtr_mob.png') no-repeat;
+		padding: 0px;
+	}
+</style>
+<script>
+jQuery(document).ready(function() {
+	jQuery('.search-menu-img').click(function(){
+	jQuery('.sidr-class-type_4').prop('disabled', false);
+	jQuery('#sidr-class-type_4').removeClass('disable');
+	});
+	jQuery('#mobile-menu').sidr();
+	jQuery('#search-menu').sidr({
+			name: 'sidr-right',
+			side: 'right',
+			source: '#sidr-right'
+	});
+});
+</script> 
+
+<div id="sidr">
+<ul id="gp-default-menu-mobile">
+	
+	
+				<script>
+		jQuery(document).ready(function() {	
+			jQuery('#gp-menu_1').click(function(){
+				jQuery('#gp-sub_menu_1').toggle();
+			});
+		});
+		</script>		
+			<li id="gp-menu_1">
+				<a href="#" class="root-item">Недвижимость<div class="gp_drop"></div></a>
+						<ul id="gp-sub_menu_1" class="gp-sub">
+		
+	
+		
+	
+	
+		
+							<li><a href="/base/base/novostroyki/">Новостройки</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/base/base/kvartiry">Вторичная недвижимость</a></li>
+			
+		
+	
+		
+			</ul></li>	
+	
+				<script>
+		jQuery(document).ready(function() {	
+			jQuery('#gp-menu_4').click(function(){
+				jQuery('#gp-sub_menu_4').toggle();
+			});
+		});
+		</script>		
+			<li id="gp-menu_4">
+				<a href="#" class="root-item">Консультации<div class="gp_drop"></div></a>
+						<ul id="gp-sub_menu_4" class="gp-sub">
+		
+	
+		
+	
+	
+		
+							<li><a href="/konsultatsii/yuridicheskie-uslugi.php">Консультации юриста</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/konsultatsii/ipoteka.php">Консультации по ипотеке</a></li>
+			
+		
+	
+		
+			</ul></li>	
+	
+				<script>
+		jQuery(document).ready(function() {	
+			jQuery('#gp-menu_7').click(function(){
+				jQuery('#gp-sub_menu_7').toggle();
+			});
+		});
+		</script>		
+			<li id="gp-menu_7">
+				<a href="#" class="root-item">О компании<div class="gp_drop"></div></a>
+						<ul id="gp-sub_menu_7" class="gp-sub">
+		
+	
+		
+	
+	
+		
+							<li><a href="/about/agents/">Агенты</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/reviews/">Отзывы</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/about/informatsiya/">Информация</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/about/news/">Новости</a></li>
+			
+		
+	
+		
+			</ul></li>	
+	
+		
+							<li>
+					<a href="/contacts/" class="root-item">Контакты</a> 
+				</li>
+			
+		
+	
+		
+
+	</ul>
+</div>
+
+<div id="sidr-right">
+<form name="gp_filter_form" action="/base/" method="get">
+		<table class="data-table" cellspacing="0" cellpadding="2">
+	<thead>
+		<tr>
+			<td colspan="2" align="center">Фильтр</td>
+		</tr>
+	</thead>
+	<tbody>
+									<tr>
+					<td valign="top">Сделка:</td>
+					<td valign="top"><select name="gp_filter_pf[type_of_transaction]"><option value="">(все)</option><option value="1">Снять</option><option value="2">Купить</option><option value="263">Продажа</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Тип:</td>
+					<td valign="top"><input type="radio" name="gp_filter_pf[type]" value=""> (все)<br><input type="radio" name="gp_filter_pf[type]" value="3"> Квартира<br><input type="radio" name="gp_filter_pf[type]" value="4"> Комната<br><input type="radio" name="gp_filter_pf[type]" value="5"> Дом<br><input type="radio" name="gp_filter_pf[type]" value="6"> Участок</td>
+				</tr>
+												<tr>
+					<td valign="top">Комнаты:</td>
+					<td valign="top"><select name="gp_filter_pf[rooms]"><option value="">(все)</option><option value="7">Студия</option><option value="8">1-комн.</option><option value="9">2-комн.</option><option value="10">3-комн.</option><option value="11">4+</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Цена:</td>
+					<td valign="top"><input type="text" name="gp_filter_pf[price][LEFT]" size="40" value="" />&nbsp;по&nbsp;<input type="text" name="gp_filter_pf[price][RIGHT]" size="40" value="" /></td>
+				</tr>
+												<tr>
+					<td valign="top">Город:</td>
+					<td valign="top"><select name="gp_filter_pf[city]"><option value="">(все)</option><option value="17">Санкт-Петербург</option><option value="18">Ленинградская область</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Область:</td>
+					<td valign="top"><select name="gp_filter_pf[area]"><option value="">(все)</option><option value="19">Санкт-Петербург</option><option value="20">Ленинградская область</option><option value="349">Приозерск</option><option value="319">поселок Первомайское</option><option value="355">Тихвин</option><option value="283">Сестрорецк</option><option value="302">деревня Юкки</option><option value="323">деревня Белогорка</option><option value="303">деревня Лесколово</option><option value="322">посёлок городского типа Тайцы</option><option value="294">посёлок Новый Свет</option><option value="324">Гатчина</option><option value="353">посёлок Шушары</option><option value="329">Кириши</option><option value="295">Ивангород</option><option value="286">Красное Село</option><option value="340">деревня Кипень</option><option value="332">городской посёлок Мга</option><option value="331">Кировск</option><option value="317">поселок городского типа Кузьмоловский</option><option value="321">поселок Парголово</option><option value="309">деревня Колтуши</option><option value="296">деревня Новое Девяткино</option><option value="347">посёлок Лисий Нос</option><option value="337">деревня Лопухинка</option><option value="351">поселок Шушары</option><option value="297">Всеволожск</option><option value="320">поселок станции Приветнинское</option><option value="287">Колпино</option><option value="346">посёлок Стрельна</option><option value="339">Сосновый Бор</option><option value="334">Отрадное</option><option value="336">поселок Металлострой</option><option value="289">поселок Понтонный</option><option value="345">Петергоф</option><option value="327">Кингисепп</option><option value="330">Мга</option><option value="312">поселок Бугры</option><option value="356">поселок городского типа Красный Бор</option><option value="313">Сертолово</option><option value="342">поселок Аннино</option><option value="335">посёлок Металлострой</option><option value="308">поселок Лесное</option><option value="279">Никольское</option><option value="314">поселок Углово</option><option value="341">деревня Лаголово</option><option value="305">посёлок городского типа имени Морозова</option><option value="318">посёлок Парголово</option><option value="343">поселок Оредеж</option><option value="282">посёлок Молодёжное</option><option value="293">Коммунар</option><option value="316">поселок Гарболово</option><option value="333">городской посёлок Назия</option><option value="288">посёлок Понтонный</option><option value="301">поселок городского типа Дубровка</option><option value="292">Волхов</option><option value="352">Пушкин</option><option value="338">городской посёлок Новоселье</option><option value="307">деревня Кудрово</option><option value="315">поселок Мурино</option><option value="291">Сясьстрой</option><option value="284">Зеленогорск</option><option value="348">поселок Мичуринское</option><option value="304">посёлок городского типа Токсово</option><option value="280">поселок Ушаки</option><option value="325">посёлок городского типа Сиверский</option><option value="281">посёлок Тельмана</option><option value="310">поселок городского типа Рахья</option><option value="290">деревня Бегуницы</option><option value="298">посёлок Мурино</option><option value="326">деревня Мины</option><option value="311">деревня Ненимяки</option><option value="350">Павловск</option><option value="300">деревня Кузьмолово</option><option value="344">Ломоносов</option><option value="306">деревня Агалатово</option><option value="299">поселок городского типа имени Свердлова</option><option value="285">Кронштадт</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Район:</td>
+					<td valign="top"><select multiple name="gp_filter_pf[district][]" size="5"><option value="">(все)</option><option value="21">Адмиралтейский</option><option value="22">Василеостровский</option><option value="23">Всеволожский Л.О.</option><option value="24">Выборгский</option><option value="25">Девяткино</option><option value="26">Калининский</option><option value="27">Кингисеппский Л.О.</option><option value="28">Колпинский</option><option value="29">Красногвардейский</option><option value="30"> Красносельский</option><option value="31">Кронштадтский</option><option value="32">Курортный</option><option value="33">Московский</option><option value="34">Невский</option><option value="35">Область</option><option value="37">Петроградский</option><option value="36">Петродворцовый</option><option value="38">Приморский</option><option value="39">Пушкинский</option><option value="40">Фрунзенский</option><option value="41">Центральный</option><option value="45">Всеволожский</option><option value="48">Ломоносовский</option><option value="44">Лужский</option><option value="42">Красносельский</option><option value="43">Кировский</option><option value="46">Гатчинский</option><option value="47">Волховский</option><option value="273">Кингисеппский</option><option value="328">Киришский</option><option value="49">Волосовский</option><option value="50">Лодейнопольский</option><option value="51">Тосненский</option><option value="52">Приозерский</option><option value="354">Тихвинский</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Общая,  м.кв.:</td>
+					<td valign="top"><input type="text" name="gp_filter_pf[all_area][LEFT]" size="40" value="" />&nbsp;по&nbsp;<input type="text" name="gp_filter_pf[all_area][RIGHT]" size="40" value="" /></td>
+				</tr>
+												<tr>
+					<td valign="top">Метро:</td>
+					<td valign="top"><select multiple name="gp_filter_pf[metro][]" size="5"><option value="">(все)</option><option value="90">Автово</option><option value="91">Академическая</option><option value="93">Бухарестская</option><option value="92">Балтийская</option><option value="94">Адмиралтейская</option><option value="95">Василеостровская</option><option value="96">Владимирская</option><option value="97">Волковская</option><option value="98">Гостинный двор</option><option value="99">Горьковская</option><option value="100">Девяткино</option><option value="270">Парнас</option><option value="110">Лиговский проспект</option><option value="101">Московская</option><option value="102">Достоевская</option><option value="103">Маяковская</option><option value="104">Чкаловская</option><option value="105">пл. Ал. Невского</option><option value="143">Рыбацкое</option><option value="106">Чернышевская</option><option value="107">Черная речка</option><option value="108">Старая Деревня</option><option value="274">Выборгская</option><option value="111">Пионерская</option><option value="112">Купчино</option><option value="272">Площадь Восстания</option><option value="269">Площадь Александра Невского</option><option value="113">Площадь Ал. Невского</option><option value="114">Электросила</option><option value="115">Новочеркасская</option><option value="116">Международная</option><option value="117">Елизаровская</option><option value="128">проспект Большевиков</option><option value="119">пл. Мужества</option><option value="120">Озерки</option><option value="266">Площадь Мужества</option><option value="121">Площадь Ленина</option><option value="278">Обухово</option><option value="122">Лесная</option><option value="277">Крестовский остров</option><option value="109">Пролетарская</option><option value="123">Невский проспект</option><option value="136">Кировский завод</option><option value="265">Московские ворота</option><option value="125">Ладожская</option><option value="126">пл. Восстания</option><option value="127">Ломоносовская</option><option value="275">Политехническая</option><option value="129">Обводный канал</option><option value="118">Петроградская</option><option value="130">ул. Дыбенко</option><option value="131">Улица Дыбенко</option><option value="132">Садовая</option><option value="133">Спортивная</option><option value="134">Нарвская</option><option value="135">Сенная пл.</option><option value="276">Технологический институт</option><option value="137">Гражданский проспект</option><option value="124">Парк Победы</option><option value="268">Ленинский проспект</option><option value="138">Сенная площадь</option><option value="139">проспект Просвещения</option><option value="140">Нет (загород)</option><option value="141">Комендантский проспект</option><option value="264">Пушинская</option><option value="142">проспект Ветеранов</option><option value="271">Пушкинская</option><option value="144">Приморская</option><option value="145">Звездная</option><option value="146">Удельная</option><option value="147">Звенигородская</option><option value="148">Фрунзенская</option><option value="149">Технологич. ин-т</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Тип здания:</td>
+					<td valign="top"><select multiple name="gp_filter_pf[building][]" size="5"><option value="">(все)</option><option value="53">1.090.1 серия</option><option value="54">121 серия</option><option value="55">137 серия</option><option value="56">504 серия</option><option value="57">504Д серия</option><option value="58">600 серия</option><option value="59">600.11 серия</option><option value="60">601 серия</option><option value="61">602 серия</option><option value="62">606 серия</option><option value="63">611 серия</option><option value="64">Блоч-монолит</option><option value="65">Блочный</option><option value="66">Брежневка</option><option value="67">Деревянный</option><option value="68">Индивидуальный</option><option value="69">Кирп-Монолит</option><option value="70">Кирпичный</option><option value="71">Корабль</option><option value="72">Коттедж</option><option value="73">Мансарда</option><option value="74">Монолит</option><option value="75">Монолит-панель</option><option value="76">Немецкий</option><option value="77">Новый Блочный</option><option value="78">Панельный</option><option value="79">Реконструкция</option><option value="80">Ст.Фонд Кап.Рем.</option><option value="81">Сталинский</option><option value="82">Старый фонд (СФ)</option><option value="83">Хрущевка</option><option value="87">Современная панель</option><option value="86">Панель</option><option value="88">Бревенчатый</option><option value="195">Монолитный</option><option value="267">кирпично-монолитный</option><option value="205">Шлакоблок</option><option value="84">Кирпич-монолит</option><option value="85">Кирпич</option><option value="89">Блок</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Санузел:</td>
+					<td valign="top"><select name="gp_filter_pf[lavatory]"><option value="">(все)</option><option value="156">Без ванны</option><option value="157">Ванна на кухне</option><option value="158">Два санузла</option><option value="159">Три и более санузла</option><option value="160">Душ</option><option value="161">Душ на кухне</option><option value="162">Раздельный</option><option value="163">Совмещенный</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Наличие:</td>
+					<td valign="top"><select multiple name="gp_filter_pf[have][]" size="5"><option value="">(все)</option><option value="164">Джакузи</option><option value="165">Парковка</option><option value="166">Веранда</option><option value="167">Фитнес Центр</option><option value="168">Отопление</option><option value="169">Лифт</option></select></td>
+				</tr>
+												<tr>
+					<td valign="top">Этаж/Из:</td>
+					<td valign="top"><input type="text" name="gp_filter_pf[floor]" size="70" value="" /></td>
+				</tr>
+												<tr>
+					<td valign="top">Жилая, м.кв.:</td>
+					<td valign="top"><input type="text" name="gp_filter_pf[live_area][LEFT]" size="40" value="" />&nbsp;по&nbsp;<input type="text" name="gp_filter_pf[live_area][RIGHT]" size="40" value="" /></td>
+				</tr>
+												<tr>
+					<td valign="top">Кухня, м.кв.:</td>
+					<td valign="top"><input type="text" name="gp_filter_pf[kitchen_area][LEFT]" size="40" value="" />&nbsp;по&nbsp;<input type="text" name="gp_filter_pf[kitchen_area][RIGHT]" size="40" value="" /></td>
+				</tr>
+						</tbody>
+	<tfoot>
+		<tr>
+			<td colspan="2">
+				<input type="submit" name="set_filter" value="Фильтр" /><input type="hidden" name="set_filter" value="Y" />&nbsp;&nbsp;<input type="submit" name="del_filter" value="Сбросить" /></td>
+		</tr>
+	</tfoot>
+	</table>
+</form>
+</div></div>
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url" : "http://svoyagent.ru",
+  "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+7 (812) 649-00-55",
+      "contactType" : "customer service"
+    } ] }
+</script>
+<!--/  Header /-->
+<header>
+<div itemscope itemtype="http://schema.org/Organization">
+	<a itemprop="url" class="schema_hide" href="http://svoyagent.ru">Свой Агент</a>
+	<a itemprop="name" class="schema_hide" href="http://svoyagent.ru" class="gp_org_name">Свой Агент</a>
+	<a itemprop="address" class="schema_hide" href="http://svoyagent.ru" class="gp_org_name">Санкт-Петербург, Восстания ул., д. 7а</a>
+
+
+<div class="site-header-top">
+	
+		<div class="container">
+		
+			<div class="row">
+			
+								<div class="col-md-4 col-sm-6">		
+					<div class="site-header-top-info" style="font-size: 14px; text-align: left;">
+						<i class="icon fa-mobile-phone"></i> Телефон: 649-00-19</div>			
+				</div>
+								
+								
+				<div class="col-md-8 col-sm-6">	
+					<nav class="nav-top" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="menu-top-container">
+					    <div class="responsive-menu-icon"></div><ul id="menu-top" class="wpsight-menu wpsight-menu-right responsive-menu">
+<li id="menu-item-335" class="first-menu-item menu-item  menu-item-type-post_type menu-item-object-page menu-item-335"><a href="http://demo.wpcasa.com/bahia/news/"><i class="_mi _before fa fa-rss"></i><span>Новости</span></a></li>
+<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href=""><i class="_mi _before fa fa-envelope-o"></i><span>Обраный звонок</span></a></li>
+<li id="menu-item-333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-333"><a target="_blank" href=""><i class="_mi _before fa fa-vk"></i><span>Vk</span></a></li>
+<li id="menu-item-334" class="last-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-334"><a target="_blank" href=""><i class="_mi _before fa fa-vk"></i><span>Vk</span></a></li>
+</ul></div></nav>				
+				</div>				
+							
+			</div>
+		
+		</div>
+
+	</div>
+ 
+
+<div class="site-header">
+
+						<div class="middle-header">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2 hidden-sm hidden-xs">
+         <h1 class="logo"> 
+            	<a href="http://svoyagent.ru" title="Агенты по недвижимости Санкт-Петербург"><img width="190" src="http://v-novostroyku.ru/include/logo1.svg" height="94" itemprop="logo"></a>            </h1>
+          </div>
+          <div class="col-md-10 col-sm-4 col-xs-4">
+      <br>       								
+	<!--/  Navigation /-->
+<!--<nav /*style="background: #393939;"*/>-->
+ <div class="nav" style="width: 100% !important;">
+	
+<ul id="gp-default-menu">
+	
+	
+					<li class="menusub"><a href="/base/" class="root-item">Недвижимость</a>
+				<div class="gp_sub-menu">
+					<div class="gp_sub_width">
+						<b class="sub_shadow"></b>
+						<ul>
+		
+	
+		
+	
+	
+		
+							<li><a href="/base/base/novostroyki/">Новостройки</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/base/base/kvartiry">Вторичная недвижимость</a></li>
+			
+		
+	
+		
+			</ul></li>	
+	
+					<li class="menusub"><div class="root-separator"></div><a href="/konsultatsii/" class="root-item">Консультации</a>
+				<div class="gp_sub-menu">
+					<div class="gp_sub_width">
+						<b class="sub_shadow"></b>
+						<ul>
+		
+	
+		
+	
+	
+		
+							<li><a href="/konsultatsii/yuridicheskie-uslugi.php">Консультации юриста</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/konsultatsii/ipoteka.php">Консультации по ипотеке</a></li>
+			
+		
+	
+		
+			</ul></li>	
+	
+					<li class="menusub"><div class="root-separator"></div><a href="/about/" class="root-item">О компании</a>
+				<div class="gp_sub-menu">
+					<div class="gp_sub_width">
+						<b class="sub_shadow"></b>
+						<ul>
+		
+	
+		
+	
+	
+		
+							<li><a href="/about/agents/">Агенты</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/reviews/">Отзывы</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/about/informatsiya/">Информация</a></li>
+			
+		
+	
+		
+	
+	
+		
+							<li><a href="/about/news/">Новости</a></li>
+			
+		
+	
+		
+			</ul></li>	
+	
+		
+							<li><div class="root-separator"></div><a href="/contacts/" class="root-item">Контакты</a> </li>
+			
+		
+	
+		
+
+	</ul>
+<div id="sb-search" class="sb-search">
+						<form action="/search/" method="post">
+							<input class="sb-search-input" placeholder="Поиск по сайту" type="text" value="" name="q" id="search">
+							<input class="sb-search-submit" type="submit" value="">
+							<span class="sb-icon-search"></span>
+						</form>
+					</div>
+					<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/classie.js"></script>
+		<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/uisearch.js"></script>
+		<script>
+			new UISearch( document.getElementById( 'sb-search' ) );
+		</script>
+
+
+ </div>
+</nav>
+<!--/ End Navigation /-->													
+						  </div>
+<!--<style="
+    /* font-family: 'Montserrat', sans-serif; */
+    /* font-size: 19px; */
+    /* color: #666; */
+">
+							
+<span style="color: #666;"><img width="40" src="https://image.flaticon.com/icons/svg/134/134969.svg" height="60"><a href="mailto:6490055@gmail.com"> 6490055@gmail.com</a></span>
+						  </div>
+<div>
+							<navbtn class="cl-effect-20">
+ <a class="callme" href="/include/callme.php"><span data-hover="Заказать">обратный звонок</span></a>
+</navbtn>							
+						  </div>             </div>
+              <a href="#" class="visible-sm visible-xs menu-toggle" style="display: none;"><i class="fa fa-bars"></i></a>
+          </div>
+        </div>
+      </div>
+   -->
+    
+    
+    </div></div>
+ 
+</header>
+</div>
+<!--/ End Header /-->
+
+
+
+<!--/ Slider /-->
+
+
+
+<!--/ End Slider /-->
+			
+
+<!-- Filter -->
+
+<style type="text/css">
+
+.button .button--nuka .button--round-s .button--text-thick:before {content: "ПОИСК";
+
+
+}
+
+</style>
+
+
+
+<form name="gp_filter_form" action="/base/" method="get" class="gp-form gp-filter">
+   <div class="background-image" style="background: url(https://pp.userapi.com/c830709/v830709504/45398/y-5fTg4iEX0.jpg);opacity: 1;height: 480px;margin-top: -168px;">
+ <img alt="Image description" src="https://pp.userapi.com/c830709/v830709504/45398/y-5fTg4iEX0.jpg" class="img-responsive">
+ 
+ <div class="filter"  style="height: 480px; padding-top: 280px;">
+ <div class="filter-wrapper">
+		
+			
+	<div class="gp-items">
+
+		<div class="filter-default">
+														<div class="gp-item" style="width: 19%;">
+						 <select name="gp_filter_pf[type_of_transaction]" class="chosen-select chosen-select-deselect" data-placeholder="Сделка" style="width:100px;"><option value=""></option><option value="1">Снять</option><option value="2">Купить</option><option value="263">Продажа</option></select>					</div>
+							
+					
+														<div class="gp-item" style="width: 19%;">
+						 <select name="gp_filter_pf[type]" class="chosen-select chosen-select-deselect" data-placeholder="Тип" style="width:100px;"><option value=""></option><option value="3">Квартира</option><option value="4">Комната</option><option value="5">Дом</option><option value="6">Участок</option></select>					</div>
+							
+					
+														<div class="gp-item" style="width: 19%;">
+						 <select name="gp_filter_pf[rooms]" class="chosen-select chosen-select-deselect" data-placeholder="Комнаты" style="width:100px;"><option value=""></option><option value="7">Студия</option><option value="8">1-комн.</option><option value="9">2-комн.</option><option value="10">3-комн.</option><option value="11">4+</option></select>					</div>
+							
+					
+														<div class="gp-item" style="width: 19%;">
+						 <span class="gp-ot-do"><input type="text" id="price_LEFT"  name="gp_filter_pf[price][LEFT]" style="width:62px;" value=""  placeholder=""  />&nbsp;по&nbsp;<input type="text" id="price_RIGHT" name="gp_filter_pf[price][RIGHT]" style="width:62px;" value=""   placeholder="" /></span>					</div>
+							
+					
+														<div class="gp-item" style="width: 19%;">
+						 <select multiple name="gp_filter_pf[district][]" size="5" class="chosen-select chosen-select-deselect" data-placeholder="Район" style="width:100px;"><option value=""></option><option value="21">Адмиралтейский</option><option value="22">Василеостровский</option><option value="23">Всеволожский Л.О.</option><option value="24">Выборгский</option><option value="25">Девяткино</option><option value="26">Калининский</option><option value="27">Кингисеппский Л.О.</option><option value="28">Колпинский</option><option value="29">Красногвардейский</option><option value="30"> Красносельский</option><option value="31">Кронштадтский</option><option value="32">Курортный</option><option value="33">Московский</option><option value="34">Невский</option><option value="35">Область</option><option value="37">Петроградский</option><option value="36">Петродворцовый</option><option value="38">Приморский</option><option value="39">Пушкинский</option><option value="40">Фрунзенский</option><option value="41">Центральный</option><option value="49">Волосовский</option><option value="47">Волховский</option><option value="45">Всеволожский</option><option value="46">Гатчинский</option><option value="273">Кингисеппский</option><option value="328">Киришский</option><option value="43">Кировский</option><option value="42">Красносельский</option><option value="50">Лодейнопольский</option><option value="48">Ломоносовский</option><option value="44">Лужский</option><option value="52">Приозерский</option><option value="354">Тихвинский</option><option value="51">Тосненский</option></select>					</div>
+							
+					
+														<div class="gp-item" style="width: 19%;">
+						 <select multiple name="gp_filter_pf[metro][]" size="5" class="chosen-select chosen-select-deselect" data-placeholder="Метро" style="width:100px;"><option value=""></option><option value="90">Автово</option><option value="91">Академическая</option><option value="94">Адмиралтейская</option><option value="92">Балтийская</option><option value="93">Бухарестская</option><option value="95">Василеостровская</option><option value="96">Владимирская</option><option value="97">Волковская</option><option value="98">Гостинный двор</option><option value="99">Горьковская</option><option value="100">Девяткино</option><option value="274">Выборгская</option><option value="137">Гражданский проспект</option><option value="102">Достоевская</option><option value="117">Елизаровская</option><option value="145">Звездная</option><option value="147">Звенигородская</option><option value="136">Кировский завод</option><option value="141">Комендантский проспект</option><option value="277">Крестовский остров</option><option value="112">Купчино</option><option value="125">Ладожская</option><option value="268">Ленинский проспект</option><option value="122">Лесная</option><option value="110">Лиговский проспект</option><option value="127">Ломоносовская</option><option value="103">Маяковская</option><option value="116">Международная</option><option value="101">Московская</option><option value="265">Московские ворота</option><option value="134">Нарвская</option><option value="123">Невский проспект</option><option value="140">Нет (загород)</option><option value="115">Новочеркасская</option><option value="129">Обводный канал</option><option value="278">Обухово</option><option value="120">Озерки</option><option value="124">Парк Победы</option><option value="270">Парнас</option><option value="118">Петроградская</option><option value="111">Пионерская</option><option value="105">пл. Ал. Невского</option><option value="126">пл. Восстания</option><option value="119">пл. Мужества</option><option value="113">Площадь Ал. Невского</option><option value="269">Площадь Александра Невского</option><option value="272">Площадь Восстания</option><option value="121">Площадь Ленина</option><option value="266">Площадь Мужества</option><option value="275">Политехническая</option><option value="144">Приморская</option><option value="109">Пролетарская</option><option value="128">проспект Большевиков</option><option value="142">проспект Ветеранов</option><option value="139">проспект Просвещения</option><option value="264">Пушинская</option><option value="271">Пушкинская</option><option value="143">Рыбацкое</option><option value="132">Садовая</option><option value="135">Сенная пл.</option><option value="138">Сенная площадь</option><option value="133">Спортивная</option><option value="108">Старая Деревня</option><option value="149">Технологич. ин-т</option><option value="276">Технологический институт</option><option value="146">Удельная</option><option value="130">ул. Дыбенко</option><option value="131">Улица Дыбенко</option><option value="148">Фрунзенская</option><option value="107">Черная речка</option><option value="106">Чернышевская</option><option value="104">Чкаловская</option><option value="114">Электросила</option></select>					</div>
+							
+					
+		<!--<div class="box bg-1" style="margin-left: 85%;padding-top: 20px;margin-top: 0px; text-align: right">-->
+	<div style="display: inline-block;float: right;text-align: right">
+	<!--	<input type="hidden" name="set_filter" value="Y" />-->
+		<button type="submit" name="set_filter" value="ПОИСК" class="button button--nuka button--round-s button--text-thick" style="margin: 0;">ПОИСК</button>&nbsp;&nbsp;
+	<!--<button type="submit" name="del_filter" value="Сбросить" class="button button--nuka button--round-s button--text-thick">Сбросить</button> --> 	
+	</div>
+	<!--<div class="box bg-11"><div class="filter-more-button button button--nuka button--round-s button--text-thick">Больше параметров</div></div>	
+		</div> --> 	</div>
+		
+		<div class="filter-more">
+											
+					
+											
+					
+											
+					
+											
+					
+											
+					
+											
+					
+				</div>
+	</div>
+	</div>
+</div>
+
+</form></div><!-- End Filter -->
+
+
+<!--/ Content /-->
+
+
+-<section>
+ <div class="content">
+<!--<br>
+		<img width="100%" alt="reklama.jpg" src="/upload/medialibrary/902/9026fa0b6c8decd6b72e86d3cc1bc558.jpg" height="auto" title="reklama.jpg"><br>-->
+<div class="row" style="margin-right: 0px; margin-left: 0px;">
+	<div class="crd col-md-4 col-xs-12">
+		<div class="background-image" style="background: url(https://cdn-a.cian.site/8/373/713/buninskie-luga-moskva-jk-317373827-7.jpg); opacity: 1;">
+ <img alt="Image description" src="https://cdn-a.cian.site/8/373/713/buninskie-luga-moskva-jk-317373827-7.jpg" class="img-responsive">
+			<div class="property-card">
+				<h2 style="padding: 0;">Купить квартиру в новостройке</h2>
+				<div class="property-type">
+					<div class="row">
+						<div class="col-md-6 col-xs-6">
+ <a href="/base/?set_filter=Y&set_filter=%CF%CE%C8%D1%CA&gp_filter_pf%5Btype_of_transaction%5D%5B%5D=2&gp_filter_pf%5Brooms%5D%5B%5D=7&gp_filter_pf%5Bprice%5D%5BLEFT%5D=&gp_filter_pf%5Bprice%5D%5BRIGHT%5D=&gp_filter_pf%5Bcity%5D=&gp_filter_pf%5Ball_area%5D%5BLEFT%5D=&gp_filter_pf%5Ball_area%5D%5BRIGHT%5D=&gp_filter_pf%5Blavatory%5D=&gp_filter_pf%5Bfloor%5D=&gp_filter_pf%5Blive_area%5D%5BLEFT%5D=&gp_filter_pf%5Blive_area%5D%5BRIGHT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BLEFT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BRIGHT%5D=">
+							<h4 style="font-size: 14px;">студии</h4>
+ </a> <a href="/base/?set_filter=Y&set_filter=%CF%CE%C8%D1%CA&gp_filter_pf%5Btype_of_transaction%5D%5B%5D=2&gp_filter_pf%5Btype%5D%5B%5D=3&gp_filter_pf%5Brooms%5D%5B%5D=8&gp_filter_pf%5Bprice%5D%5BLEFT%5D=&gp_filter_pf%5Bprice%5D%5BRIGHT%5D=&gp_filter_pf%5Bcity%5D=&gp_filter_pf%5Ball_area%5D%5BLEFT%5D=&gp_filter_pf%5Ball_area%5D%5BRIGHT%5D=&gp_filter_pf%5Blavatory%5D=&gp_filter_pf%5Bfloor%5D=&gp_filter_pf%5Blive_area%5D%5BLEFT%5D=&gp_filter_pf%5Blive_area%5D%5BRIGHT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BLEFT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BRIGHT%5D=">
+							<h4 style="font-size: 14px;">однокомнатные</h4>
+ </a>
+						</div>
+						<div class="col-md-6 col-xs-6">
+ <a href="/base/?set_filter=Y&set_filter=%CF%CE%C8%D1%CA&gp_filter_pf%5Btype_of_transaction%5D%5B%5D=2&gp_filter_pf%5Btype%5D%5B%5D=3&gp_filter_pf%5Brooms%5D%5B%5D=9&gp_filter_pf%5Bprice%5D%5BLEFT%5D=&gp_filter_pf%5Bprice%5D%5BRIGHT%5D=&gp_filter_pf%5Bcity%5D=&gp_filter_pf%5Ball_area%5D%5BLEFT%5D=&gp_filter_pf%5Ball_area%5D%5BRIGHT%5D=&gp_filter_pf%5Blavatory%5D=&gp_filter_pf%5Bfloor%5D=&gp_filter_pf%5Blive_area%5D%5BLEFT%5D=&gp_filter_pf%5Blive_area%5D%5BRIGHT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BLEFT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BRIGHT%5D=">
+							<h4 style="font-size: 14px;">двукомнатные</h4>
+ </a> <a href="/base/?set_filter=Y&set_filter=%CF%CE%C8%D1%CA&gp_filter_pf%5Btype_of_transaction%5D%5B%5D=2&gp_filter_pf%5Btype%5D%5B%5D=3&gp_filter_pf%5Brooms%5D%5B%5D=10&gp_filter_pf%5Bprice%5D%5BLEFT%5D=&gp_filter_pf%5Bprice%5D%5BRIGHT%5D=&gp_filter_pf%5Bcity%5D=&gp_filter_pf%5Ball_area%5D%5BLEFT%5D=&gp_filter_pf%5Ball_area%5D%5BRIGHT%5D=&gp_filter_pf%5Blavatory%5D=&gp_filter_pf%5Bfloor%5D=&gp_filter_pf%5Blive_area%5D%5BLEFT%5D=&gp_filter_pf%5Blive_area%5D%5BRIGHT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BLEFT%5D=&gp_filter_pf%5Bkitchen_area%5D%5BRIGHT%5D=">
+							<h4 style="font-size: 14px;">трехкомнатные</h4>
+ </a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="crd col-md-4 col-xs-12">
+		<div class="background-image" style="background: url(http://idolza.com/a/f/u/unionst-exterior-iranews-the-astin-apartments-apartment-kitchen-design-bedroom-blog_apartment-design-blog_new-home-construction-plans-dining-room-design-interior-online-magazine-house-dec.jpg); opacity: 1;">
+ <img alt="Image description" src="http://idolza.com/a/f/u/unionst-exterior-iranews-the-astin-apartments-apartment-kitchen-design-bedroom-blog_apartment-design-blog_new-home-construction-plans-dining-room-design-interior-online-magazine-house-dec.jpg" class="img-responsive">
+			<div class="property-card">
+				<h2>Новостройки</h2>
+				<div class="property-type">
+					<div class="row">
+						<div class="col-md-6 col-xs-6">
+							<h4 style="font-size: 14px;">у застройщика</h4>
+							<h4 style="font-size: 14px;">переуступки</h4>
+							<h4 style="font-size: 14px;">скидки и акции</h4>
+						</div>
+						<div class="col-md-6 col-xs-6">
+							<h4 style="font-size: 14px;">ипотека</h4>
+							<h4 style="font-size: 14px;">в рассрочку</h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="crd col-md-4 col-xs-12">
+		<div class="background-image" style="background: url(http://www.vgrealty.ru/images/articles/189/original/0ef288542.jpg); opacity: 1;">
+ <img alt="Image description" src="http://www.vgrealty.ru/images/articles/189/original/0ef288542.jpg" class="img-responsive">
+			<div class="property-card">
+				<h2>ЖК</h2>
+				<div class="property-type">
+					<div class="row">
+						<div class="col-md-12">
+ <a href="http://panorama.kv1.ru/kv/base">
+							<h4 style="font-size: 14px;">строящиеся</h4>
+ </a> <a href="/base/novostroyki/">
+							<h4 style="font-size: 14px;">сданные</h4>
+ </a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+ <!--<div class="mediacontent">
+ <span class="cl-effect-12"> <a href="/base/kvartiry/">
+	<div class="indexi">
+ <img width="110" src="/bitrix/templates/gp_real_estate_lite/images/1home.svg" height="110" title="Квартиры" alt="Квартиры">
+		<div class="indexz">
+			 Купить квартиру
+		</div>
+	</div>
+ </a></span> <span class="cl-effect-12"> <a href="/order/">
+	<div class="indexi">
+ <img width="110" src="/bitrix/templates/gp_real_estate_lite/images/4home.svg" height="110" title="Комнаты" alt="Комнаты">
+		<div class="indexz">
+			 Продать недвижимость
+		</div>
+	</div>
+ </a> </span> 
+ <span class="cl-effect-12"> <a href="http://panorama.kv1.ru/kv/base">
+	<div class="indexi">
+ <img width="110" src="/bitrix/templates/gp_real_estate_lite/images/3home.svg" height="110" title="Аренда" alt="Аренда">
+		<div class="indexz">
+			 Переуступки
+		</div>
+	</div>
+ </a></span> 
+ <span class="cl-effect-12"> <a href="/base/novostroyki/">
+	<div class="indexi">
+ <img width="110" alt="Дома и дачи" src="/bitrix/templates/gp_real_estate_lite/images/2home.svg" height="110" title="Дома и дачи">
+		<div class="indexz">
+			 Новостройки
+		</div>
+	</div>
+ </a></span> 
+ <span class="cl-effect-12"> <a href="/exchange/">
+	<div class="indexi">
+ <img width="110" alt="Дома и дачи" src="/bitrix/templates/gp_real_estate_lite/images/5home.svg" height="110" title="Дома и дачи">
+		<div class="indexz">
+			 Обмен квартир		</div>
+	</div>
+ </a></span> 
+ <span class="cl-effect-12"> <a href="/about/vakansii/">
+	<div class="indexi">
+ <img width="110" alt="Дома и дачи" src="/bitrix/templates/gp_real_estate_lite/images/6home.svg" height="110" title="Дома и дачи">
+		<div class="indexz">
+			 Вакансии
+		</div>
+	</div>
+ </a></span>
+</div>
+
+-->
+<div class="gp_top_div">
+ <br>
+ <br>
+	<h2>Лучшие предложения:</h2>
+ <br>
+	<div id="mi-slider" class="mi-slider">
+		<ul>
+			  
+		
+										
+			<li>
+				<div class="book">
+											<a href="/base/novostroyki/kraski-leta-1/"><div class="imgbg"><img width="200" height="200" src="/upload/resize_cache/iblock/100/200_200_2/10029eb3ac38e794078d27d21640ab8f.jpg" alt="ЖК Краски лета"></div></a>
+									
+			<div class="topname">ЖК Краски лета</div>
+						<div class="gp_obj-list">
+																																							<span class="gp_price">1 900 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Выборгский ?????</span>													<span class="gp_obj-metro">Выборгская</span>												</div>											
+						<a href="/base/novostroyki/kraski-leta-1/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+															
+			<li>
+				<div class="book">
+									
+			<div class="topname">Гагаринская улица, 12</div>
+						<div class="gp_obj-list">
+																																							<span class="gp_price">7 900 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Центральный ?????</span>													<div class="gp_obj-all_area">60  м.кв.</div>												</div>											
+						<a href="/base/kvartiry/gagarinskaya-ulica-12-2/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+															
+			<li>
+				<div class="book">
+									
+			<div class="topname">Невский проспект, 150</div>
+						<div class="gp_obj-list">
+																																							<span class="gp_price">9 100 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Центральный ?????</span>													<div class="gp_obj-all_area">83  м.кв.</div>												</div>											
+						<a href="/base/kvartiry/nevskij-prospekt-150-2/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+															
+			<li>
+				<div class="book">
+									
+			<div class="topname">Лиговский проспект, 135</div>
+						<div class="gp_obj-list">
+																																							<span class="gp_price">11 900 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Центральный ?????</span>													<div class="gp_obj-all_area">79.6  м.кв.</div>												</div>											
+						<a href="/base/kvartiry/ligovskij-prospekt-135-2/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+											</ul>
+		<ul>
+			  
+		
+										
+			<li>
+				<div class="book">
+											<a href="/base/novostroyki/kraski-leta-1/"><div class="imgbg"><img width="200" height="200" src="/upload/resize_cache/iblock/100/200_200_2/10029eb3ac38e794078d27d21640ab8f.jpg" alt="ЖК Краски лета"></div></a>
+									
+			<div class="topname">ЖК Краски лета</div>
+						<div class="gp_obj-list">
+													<span class="gp_price">1 900 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Выборгский ?????</span>													<span class="gp_obj-metro">Выборгская</span>												</div>											
+						<a href="/base/novostroyki/kraski-leta-1/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+															
+			<li>
+				<div class="book">
+									
+			<div class="topname">Гагаринская улица, 12</div>
+						<div class="gp_obj-list">
+													<span class="gp_price">7 900 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Центральный ?????</span>													<div class="gp_obj-all_area">60  м.кв.</div>												</div>											
+						<a href="/base/kvartiry/gagarinskaya-ulica-12-2/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+															
+			<li>
+				<div class="book">
+									
+			<div class="topname">Невский проспект, 150</div>
+						<div class="gp_obj-list">
+													<span class="gp_price">9 100 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Центральный ?????</span>													<div class="gp_obj-all_area">83  м.кв.</div>												</div>											
+						<a href="/base/kvartiry/nevskij-prospekt-150-2/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+															
+			<li>
+				<div class="book">
+									
+			<div class="topname">Лиговский проспект, 135</div>
+						<div class="gp_obj-list">
+													<span class="gp_price">11 900 000</span><span class="rub">руб.</span><br>													<span class="gp_obj-dist">Центральный ?????</span>													<div class="gp_obj-all_area">79.6  м.кв.</div>												</div>											
+						<a href="/base/kvartiry/ligovskij-prospekt-135-2/"><div class="gp_more_btn_circle">Подробнее</div></a>						
+				</div>
+			</li>			
+											</ul>
+		<ul>
+			<li><a href="#"><img alt="img09" src="images/9.jpg">
+			<h4>Casual</h4>
+ </a></li>
+			<li><a href="#"><img alt="img10" src="images/10.jpg">
+			<h4>Luxury</h4>
+ </a></li>
+			<li><a href="#"><img alt="img11" src="images/11.jpg">
+			<h4>Sport</h4>
+ </a></li>
+		</ul>
+		<ul>
+			<li><a href="#"><img alt="img12" src="images/12.jpg">
+			<h4>Carry-Ons</h4>
+ </a></li>
+			<li><a href="#"><img alt="img13" src="images/13.jpg">
+			<h4>Duffel Bags</h4>
+ </a></li>
+			<li><a href="#"><img alt="img14" src="images/14.jpg">
+			<h4>Laptop Bags</h4>
+ </a></li>
+			<li><a href="#"><img alt="img15" src="images/15.jpg">
+			<h4>Briefcases</h4>
+ </a></li>
+		</ul>
+ <nav> <a href="#">Квартиры и комнаты</a> <a href="#">Коммерческая</a> <a href="#">Земельные</a> <a href="#">Дома</a> </nav>
+	</div>
+	 <script src="/bitrix/templates/gp_real_estate_lite/js/jquery.catslider.js"></script> <script>
+			$(function() {
+
+				$( '#mi-slider' ).catslider();
+
+			});
+		</script>
+</div>
+ <br>  
+
+ <br>
+<div class="gp_hide">
+	<h2>Лучшие агенты по недвижимости</h2>
+	<div class="ag_index">
+		 <div id="comp_a778e0685d8a9b8c1d7d560c19354afe"><div id="gp_m-about">
+	<div class="agents_gp">			
+		<div class="exp-enum">
+				
+				<div class="item"><div class="col-md-6">
+						<div class="pic">
+							<img src="/upload/resize_cache/main/698/150_150_1/6983c92c4df38ffd2c5d84fc6049e91c.png" border='0' alt="" width="150" height="150" />						
+					</div></div>
+<div class="col-md-6">
+					<div class="body">
+						<div class="name">
+							Илья Моргенштерн							</div>
+						<!--<div class="position">
+							Специалист по недвижимости						</div>-->
+						<div class="action">
+							<a href="/base/?agent=23" class="button button--wayra button--border-thick ">Все объекты агента</a>
+						</div></div>
+					</div>
+				</div>
+				
+				<div class="item"><div class="col-md-6">
+						<div class="pic">
+							<img src="/upload/resize_cache/main/77c/150_150_1/77c4b4dcf8840b65908df83ef7ea0df2.png" border='0' alt="" width="150" height="150" />						
+					</div></div>
+<div class="col-md-6">
+					<div class="body">
+						<div class="name">
+							Ирина Ижорина							</div>
+						<!--<div class="position">
+							Специалист по недвижимости						</div>-->
+						<div class="action">
+							<a href="/base/?agent=20" class="button button--wayra button--border-thick ">Все объекты агента</a>
+						</div></div>
+					</div>
+				</div>
+				
+				<div class="item"><div class="col-md-6">
+						<div class="pic">
+							<img src="/upload/resize_cache/main/f7e/150_150_1/f7eef1c66ded393efe6ea71ea64b006d.png" border='0' alt="" width="150" height="150" />						
+					</div></div>
+<div class="col-md-6">
+					<div class="body">
+						<div class="name">
+							Ирина Шульгина							</div>
+						<!--<div class="position">
+													</div>-->
+						<div class="action">
+							<a href="/base/?agent=30" class="button button--wayra button--border-thick ">Все объекты агента</a>
+						</div></div>
+					</div>
+				</div>
+				
+				<div class="item"><div class="col-md-6">
+						<div class="pic">
+							<img src="/upload/resize_cache/main/ba0/150_150_1/ba0ad496f640bd6454dc7666cc28847f.png" border='0' alt="" width="150" height="150" />						
+					</div></div>
+<div class="col-md-6">
+					<div class="body">
+						<div class="name">
+							Кристина Павлова							</div>
+						<!--<div class="position">
+							Специалист по недвижимости						</div>-->
+						<div class="action">
+							<a href="/base/?agent=6" class="button button--wayra button--border-thick ">Все объекты агента</a>
+						</div></div>
+					</div>
+				</div>
+				
+				<div class="item"><div class="col-md-6">
+						<div class="pic">
+							<img src="/upload/resize_cache/main/8ea/150_150_1/8eaccd4c216c5a3ec116d73bb3e59f84.png" border='0' alt="" width="150" height="149" />						
+					</div></div>
+<div class="col-md-6">
+					<div class="body">
+						<div class="name">
+							Наталья Сергеева							</div>
+						<!--<div class="position">
+							Специалист по недвижимости						</div>-->
+						<div class="action">
+							<a href="/base/?agent=7" class="button button--wayra button--border-thick ">Все объекты агента</a>
+						</div></div>
+					</div>
+				</div>
+				
+				<div class="item"><div class="col-md-6">
+						<div class="pic">
+							<img src="/upload/resize_cache/main/d82/150_150_1/d82f1f7c572bfea212025bb830c4a0a6.png" border='0' alt="" width="150" height="150" />						
+					</div></div>
+<div class="col-md-6">
+					<div class="body">
+						<div class="name">
+							Наталья Фишер							</div>
+						<!--<div class="position">
+							Специалист по недвижимости						</div>-->
+						<div class="action">
+							<a href="/base/?agent=9" class="button button--wayra button--border-thick ">Все объекты агента</a>
+						</div></div>
+					</div>
+				</div>
+	</div>		</div>
+</div></div><!--<br>
+		<br>
+		<img width="100%" alt="reklama.jpg" src="/upload/medialibrary/902/9026fa0b6c8decd6b72e86d3cc1bc558.jpg" height="auto" title="reklama.jpg"><br>-->
+	</div>
+<!-- Reviews -->
+<div class="gp_hide">
+ <h2>Отзывы наших клиентов:</h2>
+<link rel="stylesheet" type="text/css" href="/bitrix/templates/gp_real_estate_lite/css/reviews.css" />
+	<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jquery.jcarousellite.js"></script>
+	<script type='text/javascript' >
+jQuery(function(){
+    jQuery("#gp_reviews").jCarouselLite({
+		auto: 3000,
+		speed:500,
+		circular: true,
+		visible: 4,
+		hoverPause: true,
+		btnNext: "#gp_reviews_arow .next_rev",
+		btnPrev: "#gp_reviews_arow .prev_rev"
+    });
+});
+</script>
+<div id="gp_reviews_arow"><a href="#" class="prev_rev"><span></span></a><a href="#" class="next_rev"><span></span></a></div>
+<div id="gp_reviews">
+		<ul>
+									<li>
+				<img border="0" src="/upload/resize_cache/iblock/192/150_150_1/192c29fff6baf3913641d96e33018e2e.png" width="150" height="150" alt="Отзыв 6" title="Отзыв 6"/>
+				<div class="textotziv">
+					<!--<h3>Отзыв 6</h3>-->
+										Имею опыт работы с другими агентствами, и все время не везло нарываться на каких-то некомпетентных агентов. В Панораме же попала к Наталье Фишер, про нее ничего плохого сказать не могу, приятно наконец написать хороший отзыв. Женщина она бойкая и умная. Сложил...					<a href="/reviews/otzyv-6/" target="_blank">Подробнее...</a>				</div>
+			</li>
+	
+							<li>
+				<img border="0" src="/upload/resize_cache/iblock/2ba/150_150_1/2ba7a119db0a3294da4c3a44cb8eaf0b.png" width="150" height="150" alt="Отзыв 5" title="Отзыв 5"/>
+				<div class="textotziv">
+					<!--<h3>Отзыв 5</h3>-->
+										Хочу сказать спасибо Павловой Кристине Владимировне, мы продавали четырехкомнатную квартиру и покупали однокомнатную и комнату, Кристина Владимировна&nbsp;&nbsp;помогла разобраться с кучей документов, какие нам нужны при продаже а какие нет, ездила с нами на п...					<a href="/reviews/otzyv-5/" target="_blank">Подробнее...</a>				</div>
+			</li>
+	
+							<li>
+				<img border="0" src="/upload/resize_cache/iblock/e56/150_150_1/e569879f4bcf6609a47404731f13e24a.png" width="150" height="150" alt="Отзыв 4" title="Отзыв 4"/>
+				<div class="textotziv">
+					<!--<h3>Отзыв 4</h3>-->
+										В декабре решились на приобритение жилья с ипотечным кредитом. Друг предложил обратиться к Сергеевой Наталье Михайловне. И как выяснилось в процессе мы не прогадали. Буквально за три недели мы приобрели квартиру, и на Новый год уже отметили новоселье. Неожидал...					<a href="/reviews/otzyv-4/" target="_blank">Подробнее...</a>				</div>
+			</li>
+	
+							<li>
+				<img border="0" src="/upload/resize_cache/iblock/785/150_150_1/78539e89995c1d42d15c607d7c60ff23.png" width="150" height="150" alt="Отзыв 3" title="Отзыв 3"/>
+				<div class="textotziv">
+					<!--<h3>Отзыв 3</h3>-->
+										В Панораму обратился по отзывам друзей. Наталия Фишер, уверенный специалист и просто приятный человек, рассказала поэтапно как будет проходить сделка, состояние рынка и дала реальную оценку нашей квартире. Всегда оповещала меня о позвонивших и посмотревших ква...					<a href="/reviews/otzyv-3/" target="_blank">Подробнее...</a>				</div>
+			</li>
+	
+							<li>
+				<img border="0" src="/upload/resize_cache/iblock/d4f/150_150_1/d4f0ed5be742e8c2007aee5d70dbdc85.png" width="150" height="150" alt="Отзыв 2" title="Отзыв 2"/>
+				<div class="textotziv">
+					<!--<h3>Отзыв 2</h3>-->
+										Большое спасибо Ижориной Ирине за профессионализм и доброжелательность при совместной работе.Очень быстро в новогодние праздники помогла снять квартиру в Невском районе.Желаем Ирине и Вашему агенству дальнейшего процветания и довольных клиентов.					<a href="/reviews/otzyv-2/" target="_blank">Подробнее...</a>				</div>
+			</li>
+	
+							<li>
+				<img border="0" src="/upload/resize_cache/iblock/ed9/150_150_1/ed9efe4c683219fe50e4318b62f63ccd.png" width="150" height="150" alt="Отзыв 1" title="Отзыв 1"/>
+				<div class="textotziv">
+					<!--<h3>Отзыв 1</h3>-->
+										Приобретал комнату через ваше агентство. Никогда ранее не касался такого вопроса, поэтому многих нюансов не знал. Комнтату подобрали и всё быстро оформили. Огромная благодарность Павловой Кристине! Благодаря опытному и квалифицированному сотруднику, всё прошло...					<a href="/reviews/otzyv-1/" target="_blank">Подробнее...</a>				</div>
+			</li>
+	
+					
+		</ul>		
+ 
+	</div>
+</div>	<!-- End Reviews -->
+</div>
+
+
+ </div>
+</section>
+<!--/ End Content /-->
+<div class="gp_top_div ">
+	<h2>Последние новости:</h2>
+ <br>
+ <div class="container" style="overflow: visible;">
+
+	 
+<div class="news-list">
+		<div class="news-item" id="bx_651765591_4247"><div class="gp_news_penta">
+		
+												<a href="/about/news/tseny-na-novostroyki-ozhidanie-i-realnost/">
+					<div class="hexa gon" style="background: url('/upload/iblock/d29/d2993aa8d4aaea460d82a18c6cd14b55.jpg') no-repeat 0% 50%;"></div></a>
+										<span class="news-date-time">9 Января 2018</span>
+											<a href="/about/news/tseny-na-novostroyki-ozhidanie-i-realnost/"><h3>Цены на новостройки: ожидание и реальность</h3></a>
+										Аналитики первичного рынка рассказали о том, какое отличие между выставленными ценами на новостройки и итоговой стоимостью сделок. По их данным разница составляет около 10&#37;, что является существенным различием в цене. В основном такая цифра появилась из-за падения спроса, последовавшего после ажиотажа в конце прошлого года. 							<div style="clear:both"></div>
+										<a href="/about/news/tseny-na-novostroyki-ozhidanie-i-realnost/"><div class="gp_more_btn_circle">Подробнее</div></a>
+				<div class="gp_bottom_border"></div></div>
+		
+	</div>
+	
+		<div class="news-item" id="bx_651765591_4246"><div class="gp_news_penta">
+		
+												<a href="/about/news/stoit-li-ozhidat-povyshenie-tsen-v-2018-godu/">
+					<div class="hexa gon" style="background: url('/upload/iblock/38c/38cc6818b0a335a04dd35e33a0af0671.jpg') no-repeat 0% 50%;"></div></a>
+										<span class="news-date-time">9 Января 2018</span>
+											<a href="/about/news/stoit-li-ozhidat-povyshenie-tsen-v-2018-godu/"><h3>Стоит ли ожидать повышение цен в 2018 году</h3></a>
+										Аналитики предполагают в текущем году и дальнейшее повышение стоимости объектов на первичном рынке. Что нельзя сравнить со вторичным рынком, здесь отнюдь ситуация иная и цены падают. Данная статистика объясняется не большим спросом и перегруженностью рынка в различных регионах.							<div style="clear:both"></div>
+										<a href="/about/news/stoit-li-ozhidat-povyshenie-tsen-v-2018-godu/"><div class="gp_more_btn_circle">Подробнее</div></a>
+				<div class="gp_bottom_border"></div></div>
+		
+	</div>
+	
+		<div class="news-item" id="bx_651765591_3489"><div class="gp_news_penta">
+		
+												<a href="/about/news/kakie-zakony-vstryakhnuli-rynok-zhilya-v-2017-godu/">
+					<div class="hexa gon" style="background: url('/upload/iblock/1ee/1eefaf3328e27e312754fc45f4f73c33.jpg') no-repeat 0% 50%;"></div></a>
+										<span class="news-date-time">29 Декабря 2017</span>
+											<a href="/about/news/kakie-zakony-vstryakhnuli-rynok-zhilya-v-2017-godu/"><h3>Какие законы встряхнули рынок жилья в 2017 году</h3></a>
+										Непрерывные изменения законопроектов послужили причиной того, что следующий год рынок недвижимости вступает в положении полной неопределенности.<br />
+Поправки в области долевого строительства стали самыми важными на рынке недвижимости 2017 года. Также законодательное собрание в короткие сроки предоставили отредактированные и вступившие в силу поправки. 							<div style="clear:both"></div>
+										<a href="/about/news/kakie-zakony-vstryakhnuli-rynok-zhilya-v-2017-godu/"><div class="gp_more_btn_circle">Подробнее</div></a>
+				<div class="gp_bottom_border"></div></div>
+		
+	</div>
+	
+		<div class="news-item" id="bx_651765591_3488"><div class="gp_news_penta">
+		
+												<a href="/about/news/refinansirovanie-ipoteki-nabiraet-oboroty/">
+					<div class="hexa gon" style="background: url('/upload/iblock/cc9/cc996f24deeff71b3a2a57c870b425a2.jpg') no-repeat 0% 50%;"></div></a>
+										<span class="news-date-time">29 Декабря 2017</span>
+											<a href="/about/news/refinansirovanie-ipoteki-nabiraet-oboroty/"><h3>Рефинансирование ипотеки набирает обороты</h3></a>
+										По мнению специалистов, примерно 1/5 от общего количества ипотечных кредитов будет рефинансирована в следующем году. В этом году данная область значительно возросла и стала одним из определяющих факторов рынка недвижимости. Ипотечная ставка в среднем составляет 10&#37;, а большинство граждан брали ипотеку по 12-13&#37;, а кто-то вообще под 15&#37; во время кризиса. 							<div style="clear:both"></div>
+										<a href="/about/news/refinansirovanie-ipoteki-nabiraet-oboroty/"><div class="gp_more_btn_circle">Подробнее</div></a>
+				<div class="gp_bottom_border"></div></div>
+		
+	</div>
+	
+</div>
+</div>
+<br>
+
+
+  <div class="container" style="/*! min-height: 100px !important; */text-align: left; padding-top: 25px; padding-bottom: 30px;">
+Агентство недвижимости&nbsp;«АН Панорама»&nbsp;оказывает широкий спектр услуг, связанных с&nbsp;покупкой, продажей, арендой и&nbsp;обменом жилья в Санкт-Петербурге и Ленобласти. Нашим клиентам мы готовы предложить большую базу покупателей и уникальные предложения&nbsp;во вторичном рынке и в новостройках, застройщиками&nbsp;которых являются надежные и проверенные годами строительные компании. Также Вы можете получить юридическую консультацию по недвижимости, помощь по покупке квартиры в ипотеку и в получении ипотечного кредита на выгодных для Вас условиях.&nbsp;Наши риэлторы-профессионалы высочайшего класса. За плечами каждого - сотни успешных сделок с недвижимостью.&nbsp;<br>Грамотный подход к работе и сотрудникам - основа роста агентства «АН Панорама» и завоевание престижа среди клиентов, как настоящих, так и будущих.&nbsp;<br>
+</div>
+<div class="container" style="text-align: left; margin-bottom: 40px";>
+<h3>Новостройки у метро</h3>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Автово</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Гражданский проспект</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Ленинский проспект</div>
+  <div class="col-md-2" style="line-height: 20px;"> <span style="background-color: #82358b" class="metro_line"></span>Обводный канал</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Политехническая</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Спортивная</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Адмиралтейская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Девяткино</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Лесная</div>
+  <div class="col-md-2" style="line-height: 20px;"> <span style="background-color: #3aa935" class="metro_line"></span>Обухово</div>
+  <div class="col-md-2" style="line-height: 20px;"> <span style="background-color: #3aa935" class="metro_line"></span>Приморская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Старая Деревня</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Академическая</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #f9b233" class="metro_line"></span>Достоевская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #f9b233" class="metro_line"></span>Лиговский проспект</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Озерки</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>Пролетарская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Технологический институт</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Балтийская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>Елизаровская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>Ломоносовская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Парк Победы</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #f9b233" class="metro_line"></span>Проспект Большевиков</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Удельная</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Бухарестская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Звенигородская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>Маяковская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Парнас</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Проспект Ветеранов</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #f9b233" class="metro_line"></span>Улица Дыбенко</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>Василеостровская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Звёздная</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Международная</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Петроградская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Проспект Просвещения</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Фрунзенская</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Владимирская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Кировский завод</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Московская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Пионерская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Пушкинская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Чернышевская</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Волковская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Комендантский проспект</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Московские ворота</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>пл. Александра Невского</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>Рыбацкое</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Чкаловская</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Выборгская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Крестовский остров</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Нарвская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Площадь Восстания</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #82358b" class="metro_line"></span>Садовая</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Чёрная речка</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Горьковская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Купчино</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Невский проспект</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Площадь Ленина</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #1d70b7" class="metro_line"></span>Электросила</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #3aa935" class="metro_line"></span>Гостиный двор</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #f9b233" class="metro_line"></span>Ладожская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #f9b233" class="metro_line"></span>Новочеркасская</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #e6332a" class="metro_line"></span>Площадь Мужества</div>
+  <div class="col-md-2" style="line-height: 20px;"><span style="background-color: #f9b233" class="metro_line"></span>Спасская</div>
+  <div class="col-md-2" style="line-height: 20px;"></div>
+  <div class="col-md-2" style="line-height: 20px;"></div>
+</div>
+
+</br>
+<h3>Новостройки в районе</h3>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;">Адмиралтейский</div>
+  <div class="col-md-2" style="line-height: 20px;">Калининский</div>
+  <div class="col-md-2" style="line-height: 20px;">Красногвардейский</div>
+  <div class="col-md-2" style="line-height: 20px;">Курортный</div>
+  <div class="col-md-2" style="line-height: 20px;">Петроградский</div>
+  <div class="col-md-2" style="line-height: 20px;">Пушкинский</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;">Василеостровский</div>
+  <div class="col-md-2" style="line-height: 20px;">Кировский</div>
+  <div class="col-md-2" style="line-height: 20px;">Красносельский</div>
+  <div class="col-md-2" style="line-height: 20px;">Московский</div>
+  <div class="col-md-2" style="line-height: 20px;">Петродворцовый</div>
+  <div class="col-md-2" style="line-height: 20px;">Фрунзенский</div>
+</div>
+<div class="row">
+  <div class="col-md-2" style="line-height: 20px;">Выборгский</div>
+  <div class="col-md-2" style="line-height: 20px;">Колпинский</div>
+  <div class="col-md-2" style="line-height: 20px;">Кронштадтский</div>
+  <div class="col-md-2" style="line-height: 20px;">Невский</div>
+  <div class="col-md-2" style="line-height: 20px;">Приморский</div>
+  <div class="col-md-2" style="line-height: 20px;">Центральный</div>
+</div>
+</div><br>
+ 
+
+
+<!--/  Footer  /-->
+<footer>
+
+<div class="footer">
+
+	
+<div class="footer-top hidden-print"> 
+<div class="container"> 
+<div class="row"> 
+<div class="footer-content"> 
+<div class="col-md-3 col-sm-4 footer-col"> 
+<div class="fot-col fot-address"> 
+<div class="address-list"> 
+<address itemscope="itemscope" itemtype="http://schema.org/Organization"> 
+<div> <address class="mb0" itemscope="itemscope" itemtype="http://schema.org/Organization"> 
+<div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress"> 
+<div> 
+<i class="fa fa-map-marker"></i>
+<span itemprop="streetAddress">Портал<br>&nbsp; «Свой Агент»&nbsp;   
+<br>
+&nbsp; &nbsp; Санкт-Петербург<br>&nbsp; &nbsp; Восстания ул., д. 3/5</span>
+</div></div></address></div></address>
+<p>
+<i class="fa fa-phone" aria-hidden="true"></i> 
+<span>&nbsp;+7 (812) 649-00-18</span></p>
+<a href="mailto:6490055@gmail.com">
+<p><i class="fa fa-envelope" aria-hidden="true"></i> <span>&nbsp;@gmail.com</span></p></a>
+	</div>
+
+	
+<ul class="socisl-link"> 
+        <li><a href="/page/biztechcs"><i class="fa fa-google-plus"></i></a></li>
+	<li><a href="/page/biztechcs"><i class="fa fa-vk"></i></a></li>
+	<li><a href="/page/biztechcs"><i class="fa fa-twitter"></i></a></li>
+	<li><a href="/page/biztechcs"><i class="fa fa-github"></i></a></li>
+	</ul>
+      </div>
+</div>
+<div class="col-md-2 col-sm-3 footer-col"> 
+<div class="fot-col fot-link"> 
+<li> <a href="/base/" style="text-transform: uppercase;font-weight: bold;">Новостройки</a>
+<hr align="left" color="#967adc" style="width: 50px; margin: 0; padding-bottom: 2px; margin-top: 3px; border-top: 0;">
+</li>	
+<ul style="margin-left: 20px;"> 
+<li> <a href="http://panorama.kv1.ru/kv/base">Переуступки</a></li>
+<li> <a href="/base/kuplyu_komnatu/">От застройщика</a></li>
+<li> <a href="/base/novostroyki/">Ипотека</a></li>
+<li> <a href="/base/kommercheskaya_nedvizhimost/">Рассрочка</a></li>
+<li> <a href="/base/zagorodnaya_nedvizhimost/">Строящиеся ЖК</a></li>
+<li> <a href="/base/zamlya/">Акции и спецпредложения</a></li>
+</ul>
+ </div></div>
+  
+ <div class="col-md-2 col-sm-3 footer-col"> 
+<div class="fot-col fot-link"> 
+<li> <a href="/services/" style="text-transform: uppercase;font-weight: bold;">Вторичная недвижимость</a>
+<hr align="left" color="#967adc" style="width: 50px; margin: 0; padding-bottom: 2px; margin-top: 3px; border-top: 0;">
+</li>	
+<ul style="margin-left: 20px;"> 	
+<li> <a href="/services/upravlenie_nedvizhimostyu.php">Продажа квартир</a></li>
+<li> <a href="/services/srochnyy_vykup_kvartir.php">Продажа комнат</a></li>
+<li> <a href="/order/">Загородная недвижимость</a></li>
+</ul>
+<li> <a href="/konsultatsii/" style="text-transform: uppercase;font-weight: bold;">Консультации</a>
+<hr align="left" color="#967adc" style="width: 50px; margin: 0; padding-bottom: 2px; margin-top: 3px; border-top: 0;">
+</li>
+<ul style="margin-left: 20px;"> 	
+<li> <a href="/konsultatsii/yuridicheskie-uslugi.php">Консультации юриста</a></li>
+<li> <a href="/konsultatsii/ipoteka.php">Консультации по ипотеке</a></li></ul>
+</div></div>
+	
+<div class="col-md-2 col-sm-2 footer-col"> 
+<div class="fot-col fot-link"> 
+	
+<li> <a href="/about/" style="text-transform: uppercase;font-weight: bold;">О компании</a>
+<hr align="left" color="#967adc" style="width: 50px; margin: 0; padding-bottom: 2px; margin-top: 3px; border-top: 0;">
+</li>	
+<ul style="margin-left: 20px;"> 	
+<li> <a href="/about/agents/">Агенты</a></li>
+<li> <a href="/reviews/">Отзывы</a></li>
+<li> <a href="/about/informatsiya/">Информация</a></li>
+<li> <a href="/about/news/">Новости</a></li>
+</ul>
+<li> <a href="/contacts/" style="text-transform: uppercase;font-weight: bold;">Контакты</a>
+<hr align="left" color="#967adc" style="width: 50px; margin: 0; padding-bottom: 2px; margin-top: 3px; border-top: 0;">
+</li>		
+</div></div>	
+
+<div class="col-md-3 col-sm-12 footer-col"> 
+ <div class="fot-col fot-address"> 
+ <li> <a href="/about/" style="text-transform: uppercase;font-weight: bold;">Связаться с агентом</a>
+<hr align="left" color="#967adc" style="width: 50px; margin: 0; padding-bottom: 2px; margin-top: 3px; border-top: 0;">
+</li>	
+ <div class="gp_feedback">
+<script>
+jQuery(document).ready(function(){
+	setTimeout(function(){jQuery('.gp_ok-text').fadeOut('fast')},3000);
+});
+</script>
+<form action="/" method="POST">
+<input type="hidden" name="sessid" id="sessid" value="4a098116e17c2a368c414438907f6f2a" />	<div class="gp_name">
+		<input type="text" class="gp_na" placeholder="Ваше имя" name="user_name" value=""> <span class="gp_req">*</span>	</div>
+	<div class="gp_email">
+		<input type="text" class="gp_em" placeholder="Ваш E-mail" name="user_email" value=""> <span class="gp_req">*</span>	</div>
+	<div class="gp_message">
+		<textarea name="MESSAGE" class="gp_mess" placeholder="Сообщение"></textarea>  <span class="gp_req">*</span>	</div>
+
+		<div class="gp_captcha">
+		<input type="hidden" name="captcha_sid" value="02b56c4e4499caf6ff22140b035f83f8">
+		<img src="/bitrix/tools/captcha.php?captcha_sid=02b56c4e4499caf6ff22140b035f83f8" width="180" height="40" alt="CAPTCHA"><br />
+		<input type="text" class="gp_capt" placeholder="Введите слово на картинке" name="captcha_word" size="30" maxlength="50" value=""> <span class="gp_req">*</span>
+	</div>
+		<input type="hidden" name="PARAMS_HASH" value="f83fa78e0bca4b6a006e1fe213465afb">
+	<input type="submit" name="submit" value="Отправить">
+</form>
+</div>
+ <br>
+ 
+</div>
+
+	</div></div></div></div></div>
+  
+<div class="footer-btm"> 
+<div class="container"> 
+<div class="footer-bottom-div"> 
+<div class="row"> 
+<div class="col-md-6 col-sm-6"> 
+<p style="text-align: left;">© 2004-2017 <span>Портал «Свой агент»</span></p></div>
+<div class="col-md-6 col-sm-6" style="text-align: right;"> 
+	<p><a href="/personal/profile/" style="font-weight: bold;">Вход на сайт</a></p>
+</div>
+</div></div></div></div>
+<div class="container mt16 mb8" style="display:none;"> 	
+	
+
+
+</footer>
+<!--/ End  Footer  /-->
+<!--start contactable js -->
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/bitrix/templates/gp_real_estate_lite/js/jquery.contactable.js"></script>
+<script type="text/javascript">$(function(){$('#contactable').contactable();});</script>
+<!--end contactable js -->
+<script crossorigin="anonymous" async type="text/javascript" src="//api.pozvonim.com/widget/callback/v3/9cc701f7945fee63047886b3c3793b1d/connect" id="check-code-pozvonim" charset="UTF-8"></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter18886207 = new Ya.Metrika({
+                    id:18886207,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/18886207" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script crossorigin="anonymous" async type="text/javascript" src="//api.pozvonim.com/widget/callback/v3/9cc701f7945fee63047886b3c3793b1d/connect" id="check-code-pozvonim" charset="UTF-8"></script>
+
+<script data-skip-moving="true">
+        (function(w,d,u,b){
+                s=d.createElement('script');r=(Date.now()/1000|0);s.async=1;s.src=u+'?'+r;
+                h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://cdn.bitrix24.ru/b1397335/crm/site_button/loader_2_ny9518.js');
+</script>
+
+</body>
+</html>
